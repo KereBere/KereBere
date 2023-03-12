@@ -1,6 +1,6 @@
 ### About me:
 Hi there!👋 My name is Gapur.
-Just started 
+I'm here to evolve.
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
